@@ -1,9 +1,7 @@
 # Hello!
 ## My name is Prateek Garg.
-
- How to reach me: prateekgarg.dev@pm.me
  
- ![Prateek's Github Stats](https://github-readme-stats.vercel.app/api?username=Nautilus3000&show_icons=true&theme=dark)
+ ![Prateek's Github Stats](https://github-readme-stats.vercel.app/api?username=Nautilus3000&show_icons=true&theme=light)
  
 <!---
 Nautilus3000/Nautilus3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
