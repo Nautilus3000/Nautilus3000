@@ -1,7 +1,7 @@
 # Hello!
 ## My name is Prateek Garg.
  
- ![Prateek's Github Stats](https://github-readme-stats.vercel.app/api/top-langs??username=prateekgargX&count_private=true&show_icons=true&theme=tokyonight&width="100%")
+ ![Prateek's Github Stats](https://github-readme-stats.vercel.app/api/top-langs??username=prateekgargX&show_icons=true&locale=en&layout=compact&theme=tokyonight)
  ![Prateek's Github Stats](https://github-readme-stats.vercel.app/api?username=prateekgargX&count_private=true&show_icons=true&theme=tokyonight&width="100%")
 
 
