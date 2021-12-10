@@ -6,8 +6,8 @@
 ---> 
 
 <div class="row">
-  <img alt="Prateek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prateekgargX&count_private=true&show_icons=true&theme=tokyonight" height="175">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekgargX&theme=tokyonight&layout=compact" height="175">
+  <img alt="Prateek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prateekgargX&count_private=true&show_icons=true&theme=tokyonight" height="180">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekgargX&theme=tokyonight&layout=compact" height="180">
 </div>
 
 
