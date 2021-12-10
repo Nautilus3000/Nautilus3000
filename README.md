@@ -1,6 +1,6 @@
 # Hello!
 ## My name is Prateek.
-Make yourself at [Home](http://www.prateekgargX.github.io "Personal Webpage")
+Make yourself [home](http://www.prateekgargX.github.io "Personal Webpage")
  
  <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekgargX&layout=compact&theme=tokyonight)](https://github.com/prateekgargX/github-readme-stats)
