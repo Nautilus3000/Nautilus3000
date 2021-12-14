@@ -11,10 +11,6 @@ Make yourself at [home](https://prateekgargx.github.io/ "Personal Webpage")
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekgargX&theme=tokyonight&layout=compact" height="180">
 </div>
 
-<div> <iframe width="450" height="280" src="https://www.tinkercad.com/embed/4BQjz75kXAa" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-</div>
-
-
 <!---
 You can make your own card by following instructions at: https://github.com/anuraghazra/github-readme-stats
 --->
