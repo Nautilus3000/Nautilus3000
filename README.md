@@ -1,9 +1,8 @@
 # Hello!
-## My name is Prateek.
-Make yourself at [home](https://prateekgargx.github.io/ "Under construction")
- 
+## My name is Prateek. 
  <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekgargX&layout=compact&theme=tokyonight)](https://github.com/prateekgargX/github-readme-stats)
+Make yourself at [home](https://prateekgargx.github.io/ "Under construction")
 ---> 
 
 <div class="row">
