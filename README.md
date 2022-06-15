@@ -19,5 +19,4 @@ Nautilus3000/Nautilus3000 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 > **Note**
-> 
 > This is a note
