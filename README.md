@@ -18,5 +18,3 @@ You can make your own card by following instructions at: https://github.com/anur
 Nautilus3000/Nautilus3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-> **Note**
-> This is a note
