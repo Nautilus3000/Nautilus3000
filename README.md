@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekgargX&layout=compact&theme=tokyonight)](https://github.com/prateekgargX/github-readme-stats)
 Make yourself at [home](https://prateekgargx.github.io/ "Under construction")
 ---> 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prateekgargX" alt="prateekgargX" /> </p>
 <div class="row">
   <img alt="Prateek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prateekgargX&count_private=true&show_icons=true&theme=tokyonight" height="180">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekgargX&theme=tokyonight&layout=compact&hide=SCSS,Scheme,SystemVerilog,Stata,HTML,JavaScript,Verilog&langs_count=6" height="180">
