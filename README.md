@@ -6,9 +6,9 @@ You can make your own card by following instructions at: https://github.com/anur
 >In case  you still want to fork this repo or have already did, you have it rename it to your username in order for it to show up on your profile.
 >Also, modify the links below, replace my username with yours, so it shows your stats not mine ^_^
 --->
-<!---
+
 Make yourself at [home](https://prateekgargx.github.io/ "Under construction")
---->
+
 <!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateekgargX" alt="prateekgargX" /> </p>
 --->
