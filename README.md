@@ -1,6 +1,5 @@
 # Hello!
 ![hehe](https://imgs.xkcd.com/comics/sad.png)
-### I am Prateek. 
 
 <!---
 You can make your own card by following instructions at: https://github.com/anuraghazra/github-readme-stats
