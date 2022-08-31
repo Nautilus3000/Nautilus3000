@@ -1,6 +1,6 @@
 # Hello!
 <!---![hehe](https://imgs.xkcd.com/comics/sad.png)--->
-{% capture themem %}tokyonight{% endcapture %}
+{% assign themem = "tokyonight" %}
 <img alt="comeec" src="https://imgs.xkcd.com/comics/sad.png" width="4000">
 graywhite
 <!---
